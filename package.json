@@ -1,0 +1,22 @@
+{
+  "name": "acme-http-01-oss",
+  "version": "1.0.0",
+  "description": "Deeply inspired by [acme-http-01-s3.js](https://git.coolaj86.com/coolaj86/acme-http-01-s3.js/src/branch/master/lib/index.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoukekestar/acme-http-01-oss.git"
+  },
+  "author": "pipe.zkk@alibaba-inc.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoukekestar/acme-http-01-oss/issues"
+  },
+  "homepage": "https://github.com/zhoukekestar/acme-http-01-oss#readme",
+  "dependencies": {
+    "ali-oss": "^6.16.0"
+  }
+}
