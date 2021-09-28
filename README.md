@@ -20,3 +20,14 @@ greenlock.manager
     },
   })
 ```
+
+## Tips
+
+You can mannual try it first by this link: https://greenlock.domains/ to make sure that you have the right access.
+
+Some Cases
+* [CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization). You can check the CAA record by [this link](https://caatest.co.uk/systemjs.alibaba-inc.com).
+
+## References
+
+* https://git.rootprojects.org/root/greenlock.js
