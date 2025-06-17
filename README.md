@@ -2,6 +2,8 @@
 
 Deeply inspired by [acme-http-01-s3.js](https://git.coolaj86.com/coolaj86/acme-http-01-s3.js/src/branch/master/lib/index.js)
 
+用于阿里云 oss 的 cdn 加速情景下，通过 Let's Encrypt 申请免费的 SSL 证书。
+
 ## Quick Start
 
 ```js
